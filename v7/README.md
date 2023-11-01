@@ -6,12 +6,11 @@ Watch this [10-minute walkthrough](https://youtu.be/1oxFYphTS4Y) to see how new 
 
 This repo contains three packages or projects:
 
-
 - `header` (a library of React components)
 - `footer` (a library of React components)
 - `remixapp` (an app written using the Remix framework which depends on both `header` and `footer`)
 
-```asdassd
+```
 packages/
     header/
         src/
@@ -26,6 +25,7 @@ packages/
         package.json
         rollup.config.json
         jest.config.js
+
 
     remixapp/
         app/
